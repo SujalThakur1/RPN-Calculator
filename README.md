@@ -2,18 +2,11 @@ RPN Calculator
 This simple calculator program supports Reverse Polish Notation (RPN) and basic arithmetic operations.
 
 Usage
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/rpn-calculator.git
-cd rpn-calculator
 Compile and Run:
 
-bash
-Copy code
-javac RPNCalculator.java
-java RPNCalculator
+bash'''
+javac Tester.java
+java Teseter
 Menu Options:
 
 Show Instructions: Learn how to use the calculator.
