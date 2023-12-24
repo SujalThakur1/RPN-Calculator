@@ -4,9 +4,10 @@ This simple calculator program supports Reverse Polish Notation (RPN) and basic 
 Usage
 Compile and Run:
 
-bash'''
+```bash
 javac Tester.java
 java Teseter
+```
 Menu Options:
 
 Show Instructions: Learn how to use the calculator.
