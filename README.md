@@ -4,8 +4,8 @@ This simple calculator program supports Reverse Polish Notation (RPN) and basic 
 Usage
 Clone the Repository:
 ```bash
-  git clone https://github.com/SujalThakur1/Shop-Inventory-Management-System.git
-  cd Shop-Inventory-Management-System
+  git clone https://github.com/SujalThakur1/RPN-Calculator.git
+  cd RPN-Calculator
 ```
 Compile and Run:
 ```bash
